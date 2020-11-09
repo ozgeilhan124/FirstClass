@@ -8,6 +8,7 @@ public class FirstClass {
 		System.out.println("First commit from local master");
         System.out.println("Seconf line of code I am adding");
         System.out.println("Hello");
+		System.out.println("Ozge`s husband loves her so much!!!");
 	}
 
 }
