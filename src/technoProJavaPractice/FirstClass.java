@@ -10,7 +10,9 @@ public class FirstClass {
         System.out.println("Hello");
 
 		System.out.println("Ozge`s husband loves her so much!!!");
+
 		System.out.println("Hello World");
+
 	}
 
 }
